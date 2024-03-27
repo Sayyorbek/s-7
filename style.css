@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: white;
+}
+body {
+  margin-top: 100px;
+  background-color: gray;
+}
+.container {
+  background: url(img/black-bac.avif);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  border: 2px solid black;
+  width: 450px;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}
+button {
+  font-size: 23px;
+  font-weight: bold;
+  display: block;
+  width: 100%;
+  margin-bottom: 40px;
+  padding: 15px;
+  border-radius: 10px;
+}
+.btn_1 {
+  margin-top: 20px;
+  border: 1px solid white;
+  background-color: white;
+  color: orange;
+}
+input {
+  display: block;
+  background: transparent;
+  font-size: 20px;
+  width: 100%;
+  padding: 15px;
+  margin-bottom: 40px;
+  border-color: orange;
+  border-left: none;
+  border-top: none;
+  border-right: none;
+}
+.btn_2 {
+  background-color: orange;
+  color: black;
+}
+p {
+  font-size: 30px;
+}
+a {
+  font-size: 35px;
+  color: orange;
+}
+.p {
+  display: inline;
+}
+i {
+  padding: 0px 13px;
+  margin-top: 10px;
+  color: white;
+  font-size: 40px;
+}
